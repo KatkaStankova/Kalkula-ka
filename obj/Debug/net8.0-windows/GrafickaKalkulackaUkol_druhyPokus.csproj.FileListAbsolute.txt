@@ -1,0 +1,16 @@
+C:\Users\katka\source\repos\GrafickaKalkulackaUkol_2cast\bin\Debug\net8.0-windows\GrafickaKalkulackaUkol_druhyPokus.exe
+C:\Users\katka\source\repos\GrafickaKalkulackaUkol_2cast\bin\Debug\net8.0-windows\GrafickaKalkulackaUkol_druhyPokus.deps.json
+C:\Users\katka\source\repos\GrafickaKalkulackaUkol_2cast\bin\Debug\net8.0-windows\GrafickaKalkulackaUkol_druhyPokus.runtimeconfig.json
+C:\Users\katka\source\repos\GrafickaKalkulackaUkol_2cast\bin\Debug\net8.0-windows\GrafickaKalkulackaUkol_druhyPokus.dll
+C:\Users\katka\source\repos\GrafickaKalkulackaUkol_2cast\bin\Debug\net8.0-windows\GrafickaKalkulackaUkol_druhyPokus.pdb
+C:\Users\katka\source\repos\GrafickaKalkulackaUkol_2cast\obj\Debug\net8.0-windows\GrafickaKalkulackaUkol.okenko.resources
+C:\Users\katka\source\repos\GrafickaKalkulackaUkol_2cast\obj\Debug\net8.0-windows\GrafickaKalkulackaUkol_druhyPokus.csproj.GenerateResource.cache
+C:\Users\katka\source\repos\GrafickaKalkulackaUkol_2cast\obj\Debug\net8.0-windows\GrafickaKalkulackaUkol_druhyPokus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\katka\source\repos\GrafickaKalkulackaUkol_2cast\obj\Debug\net8.0-windows\GrafickaKalkulackaUkol_druhyPokus.AssemblyInfoInputs.cache
+C:\Users\katka\source\repos\GrafickaKalkulackaUkol_2cast\obj\Debug\net8.0-windows\GrafickaKalkulackaUkol_druhyPokus.AssemblyInfo.cs
+C:\Users\katka\source\repos\GrafickaKalkulackaUkol_2cast\obj\Debug\net8.0-windows\GrafickaKalkulackaUkol_druhyPokus.csproj.CoreCompileInputs.cache
+C:\Users\katka\source\repos\GrafickaKalkulackaUkol_2cast\obj\Debug\net8.0-windows\GrafickaKalkulackaUkol_druhyPokus.dll
+C:\Users\katka\source\repos\GrafickaKalkulackaUkol_2cast\obj\Debug\net8.0-windows\refint\GrafickaKalkulackaUkol_druhyPokus.dll
+C:\Users\katka\source\repos\GrafickaKalkulackaUkol_2cast\obj\Debug\net8.0-windows\GrafickaKalkulackaUkol_druhyPokus.pdb
+C:\Users\katka\source\repos\GrafickaKalkulackaUkol_2cast\obj\Debug\net8.0-windows\GrafickaKalkulackaUkol_druhyPokus.genruntimeconfig.cache
+C:\Users\katka\source\repos\GrafickaKalkulackaUkol_2cast\obj\Debug\net8.0-windows\ref\GrafickaKalkulackaUkol_druhyPokus.dll
